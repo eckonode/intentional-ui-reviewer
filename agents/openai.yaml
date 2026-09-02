@@ -1,0 +1,8 @@
+interface:
+  display_name: "Intentional UI Reviewer"
+  short_description: "Pixel-precise, evidence-backed UI/UX audits"
+  default_prompt: "Use $intentional-ui-reviewer to audit this interface comprehensively and produce an evidence-backed report bundle with prioritized fixes."
+
+policy:
+  allow_implicit_invocation: true
+
