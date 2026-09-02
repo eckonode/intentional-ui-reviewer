@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+*.diff.png
+*.metrics.json
+audit-output/
+evidence/
+
